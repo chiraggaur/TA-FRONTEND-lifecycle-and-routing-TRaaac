@@ -1,4 +1,4 @@
-import Info from "./profile.js";
+import Info from "./profile";
 function App() {
   return (
     <div className="App">
